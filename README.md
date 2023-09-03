@@ -1,3 +1,6 @@
+
+https://github.com/PrathmeshR/Extension/assets/80195698/8e1661fc-2a08-4d1a-825c-9dc7e5878073
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
@@ -5,6 +8,10 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 First, run the development server:
 
 ```bash
+
+
+
+
 pnpm dev
 # or
 npm run dev
